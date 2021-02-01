@@ -5,7 +5,7 @@ console.log(fullName);
 
 
 // with templates
-const fullname2 = `${firstName} ${secondName} is a good boy`;
+const fullname2 = `${firstName} ${12 + 23} is a good boy`;
 console.log(fullname2);
 
 const multiline = `hello motherfucker
